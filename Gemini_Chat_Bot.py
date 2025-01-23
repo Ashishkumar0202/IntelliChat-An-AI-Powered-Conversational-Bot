@@ -54,27 +54,3 @@ with response_container:
 
 with input_container:
     display_input = user_input
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
